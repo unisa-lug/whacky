@@ -1,0 +1,5 @@
+= Whacky
+A whacky list of whacky things found on the internet
+
+.Fake git manpage generator
+https://git-man-page-generator.lokaltog.net/#anVtcCQkYnJhbmNo
